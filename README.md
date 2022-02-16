@@ -14,6 +14,7 @@
 * Customized 2D projection pattern ploting using python   
 * Multiple types of scatter ploting using matplotlib 
 * Bubble plots using matplotlib scatter plot 
+* Venn Daigram ploting examples
 
 
 
