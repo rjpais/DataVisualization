@@ -8,11 +8,12 @@
 
 ## Contents:
 
-* Boxplots using matplotlib 
-* Heatmaps using matplotlib and seaborn  
-* Simple and grouped barplots
-* Customized pattern plots 
+* Boxplot examples using matplotlib 
+* An annotated Heatmaps example using imshow      
+* Simple and grouped barplots using matplotlib
+* Customized 2D projection pattern ploting using python   
 * Multiple types of scatter ploting using matplotlib 
+* Bubble plots using matplotlib scatter plot 
 
 
 
