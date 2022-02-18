@@ -3,9 +3,6 @@
 
 #### The repository is dedicated to store some of the costumized plots that I have wrote throughout multiple research and development projects. Here it is provided some python code examples in jupyter notebooks with hardcoded examples for reusable purposes.
 
-![DataVisualization](https://user-images.githubusercontent.com/31729218/154593491-880e567a-7239-40cc-ae2e-f717a6aabfab.png)
-
-
 
 ## Contents:
 
@@ -17,5 +14,8 @@
 * Bubble plots using matplotlib scatter plot 
 * Venn Diagram ploting examples
 
+
+
+![DataVisualization](https://user-images.githubusercontent.com/31729218/154593491-880e567a-7239-40cc-ae2e-f717a6aabfab.png)
 
 
